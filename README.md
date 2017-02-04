@@ -1,13 +1,11 @@
  <style>
-h2 {font-family: lobster, monospace
+h1{color:red;
 }
-.red-text{
-color:red;
-}
-body {
-    background-color:black;
-    }
 </style>
-Just Figgiting
-<h1 class="red-text"> Word Up Homies!
+
+<h1 style="color:red"> Word Up Homies!
 </h1>
+<h2> I Be Chillin!
+</h2>
+<p> Now, you could get with this or you could very well get with that bish. Im tired o splaining it to you Lucy!
+</p>
