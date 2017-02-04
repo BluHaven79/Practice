@@ -1,4 +1,4 @@
-<style>
+ <style>
 h2 {font-family: lobster, monospace
 }
 .red-text{
@@ -9,5 +9,5 @@ body {
     }
 </style>
 Just Figgiting
-<h1> Word Up Homies!
+<h1 class="red-text"> Word Up Homies!
 </h1>
