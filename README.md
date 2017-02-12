@@ -1,3 +1,4 @@
+
 <body>
 <style>
 div.line1{
@@ -5,6 +6,7 @@ div.line1{
  }
 
 </style>
+<img src="https://tse1.mm.bing.net/th?id=OIP.MddZPs3J5Frk1reFYLejygEhEs&w=199&h=206&c=7&qlt=90&o=4&dpr=1.05&pid=1.7" alt="pimp strolling"> 
 <div class="line1">
 </div>
 <h1><strong> Word Up Homies!</strong>
