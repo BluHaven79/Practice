@@ -1,3 +1,4 @@
+
 <html>
 
 
@@ -12,6 +13,7 @@
 </div>
 <h1><strong> Word Up Homies!</strong>
 </h1>
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=CJ9uIi57&id=73287CEE1FA73C906B4BF50A50D193A33CF5ABE6&q=images+of+pimps&simid=608030060362730542&selectedIndex=13&qpvt=images+of+pimps" alt="lookat dis playa">
 <h2> <em>I Be Chillin!</em>
 </h2>
 <h3> Holy, Holy Hoe!</h3>
