@@ -1,4 +1,4 @@
-
+<body>
 <style>
 div.line1{
  text-align: centered;
@@ -18,3 +18,4 @@ div.line1{
 <div class="container-fluid">
 <h3 class="text-primary text-center"> So Many Hoes so little time. But I still got dis Rhyme! </h3>
 </div>
+</body>
