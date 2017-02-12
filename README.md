@@ -1,4 +1,5 @@
- 
+
+
 <html>
 
 
@@ -17,6 +18,8 @@
 <h2> <em>I Be Chillin!</em>
 </h2>
 <h3> Holy, Holy Hoe!</h3>
+<img src="https://tse3.mm.bing.net/th?id=OIP.9dZO94ssre-dEgDBnmBykgEsDe&w=195&h=160&c=7&qlt=90&o=4&dpr=1.05&pid=1.7"
+alt="snoopaloop">
 <p> Now, you could get with this or you could very well get with that bish. Im tired o splaining it to you Lucy!
 </p>
 <p> So you think you can Jam like dis? well you aint seen nothin' til you seen me pimp!</p>
