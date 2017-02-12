@@ -1,11 +1,13 @@
 
 <body>
 <style>
-div.line1{
- text-align: centered;
- }
+h1{ 
+font-size: 40px;
+}
 
-</style>
+
+</style> 
+<h1> You Might Be On Yo Way Up Pimp!</h1>
 <img src="https://tse1.mm.bing.net/th?id=OIP.MddZPs3J5Frk1reFYLejygEhEs&w=199&h=206&c=7&qlt=90&o=4&dpr=1.05&pid=1.7" alt="pimp strolling"> 
 <div class="line1">
 </div>
