@@ -7,7 +7,7 @@
 
 </style>
 <body bgcolor = "lightblue">
-<h1> You Might Be On Yo Way Up Pimp!</h1>
+<h1><font color="yellow"> You Might Be On Yo Way Up Pimp!</font></h1>
 <img src="https://tse1.mm.bing.net/th?id=OIP.MddZPs3J5Frk1reFYLejygEhEs&w=199&h=206&c=7&qlt=90&o=4&dpr=1.05&pid=1.7" alt="pimp strolling"> 
 <div class="line1">
 </div>
