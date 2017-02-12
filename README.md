@@ -1,8 +1,13 @@
 
 <style>
-</style>
+div.line1{
+ text-align: centered;
+ }
 
-<h1 style="color:red"> Word Up Homies!
+</style>
+<div class="line1">
+</div>
+<h1> Word Up Homies!
 </h1>
 <h2> I Be Chillin!
 </h2>
