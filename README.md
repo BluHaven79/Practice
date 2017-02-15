@@ -1,9 +1,11 @@
 
-
 <html>
 
 
 <style>
+.center-image{
+    text-align: center
+    }
 
 
 </style>
@@ -14,9 +16,11 @@
 <br />
 <div class="line1">
 </div>
+<div class="center-image">
 <h1><strong> Word Up Homies!</strong>
 </h1>
 <img src="https://tse1.mm.bing.net/th?id=OIP.x2aIDCsBQnsZC1b4jfby0gEsDh&w=235&h=176&c=7&qlt=90&o=4&dpr=1.05&pid=1.7" alt="lookat dis playa">
+</div>
 <h2> <em>I Be Chillin!</em>
 </h2>
 <h3> Holy, Holy Hoe!</h3>
