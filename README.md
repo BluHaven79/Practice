@@ -1,4 +1,5 @@
 
+
 <html>
 
 
@@ -28,6 +29,7 @@
 alt="snoopaloop">
 <p> Now, you could get with this or you could very well get with that bish. Im tired o splaining it to you Lucy!
 </p>
+<img href="http://www.popularvirals.com/images/pimps/pimp-player-917-ho-sale.jpg">
 <p> So you think you can Jam like dis? well you aint seen nothin' til you seen me pimp!</p>
 <div class="container-fluid">
 <h3 class="text-primary text-center"> So Many Hoes so little time. But I still got dis Rhyme! </h3>
